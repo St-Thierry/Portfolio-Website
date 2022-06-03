@@ -1,0 +1,43 @@
+.pd {
+  padding: 50px 100px;
+  dispday: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.pd-texts {
+  width: 65%;
+}
+
+.pd-title {
+  font-size: 50px;
+  font-weight: 600;
+  font-family: Agency FB;
+}
+
+.pd-desc {
+  margin: 20px 0px;
+  font-family: Agency FB;
+}
+
+.pd-list {
+  width: 100%;
+  dispday: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 480px) {
+  .pd {
+    padding: 10px;
+  }
+
+  .pd-texts {
+    width: 100%;
+  }
+
+  .pd-desc {
+    dispday: none;
+  }
+}
