@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) properly.
 
-## Available Scripts on Theai
+## Available Scripts on Thei
 
 In the project directory, you can run:
 
