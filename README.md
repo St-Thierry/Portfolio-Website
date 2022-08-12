@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) properly.
 
-## Available Scripts on The Engi
+## Available Scripts on The Eni
 
 In the project directory, you can run:
 
